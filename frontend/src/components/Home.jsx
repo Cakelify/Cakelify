@@ -110,7 +110,7 @@ const Home = () => {
               className="mySwiper"
             >
               <SwiperSlide className="rounded-lg">
-                <img src={BannerA} alt="" className="p-2  " />
+{/*                 <img src={BannerA} alt="" className="p-2  " /> */}
               </SwiperSlide>
             </Swiper>
           </div>
